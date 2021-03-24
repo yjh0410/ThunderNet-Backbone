@@ -8,7 +8,7 @@ Attention, I just supply the backbone of thundernet, not the whole pipeline of t
 
 <tr><th align="left" bgcolor=#f8f8f8> SNet146 </th><td bgcolor=white> 65.6 </td><td bgcolor=white> 86.6 </td></tr>
 
-<tr><th align="left" bgcolor=#f8f8f8> SNet535 </th><td bgcolor=white>      </td><td bgcolor=white>      </td></tr>
+<tr><th align="left" bgcolor=#f8f8f8> SNet535 </th><td bgcolor=white> 70.4 </td><td bgcolor=white> 89.6 </td></tr>
 </table></tbody>
 
 You can download the pretrained model from BaiDuYunDisk:
