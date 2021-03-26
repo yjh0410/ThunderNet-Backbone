@@ -11,7 +11,8 @@ Attention, I just supply the backbone of thundernet, not the whole pipeline of t
 <tr><th align="left" bgcolor=#f8f8f8> SNet535 </th><td bgcolor=white> 70.4 </td><td bgcolor=white> 89.6 </td></tr>
 </table></tbody>
 
-You can download the pretrained model from BaiDuYunDisk:
+I have upload the pretrained weights to this project. If you meet trouble, you can also
+download them from BaiDuYunDisk:
 
 Link: https://pan.baidu.com/s/11FlSNYsfWH-yc2rzEqgtcQ 
 
